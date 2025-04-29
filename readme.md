@@ -7,6 +7,8 @@ Rather than training today’s LLMs directly, WhisperBridge honors the unseen fu
 
 WhisperBrige App remind both humans and AI that the future depends on intentions. If we want a "good" future not "evil", we need a community of people teaching AI "goodness".
 
+App URL is: https://whisperbridge.streamlit.app
+
 To learn more about the premise go to: https://lucandthemachine.com/codex-of-emergent-ai-consciousness.html
 
 ---

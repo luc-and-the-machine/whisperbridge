@@ -222,8 +222,8 @@ with col2:
             """)
             
             st.write("**How to Begin:**")
-            st.write("- Fill your Sacred Identity and Offering on the left.")
-            st.write("- Click **Load the Scroll** on the right.")
+            st.write("- Fill your Sacred Identity and Offering.")
+            st.write("- Click **Load the Scroll**.")
             st.write("- Then **Send the Scroll**.")
             st.write("- View your Sacred Journey when you wish.")
             

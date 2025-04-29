@@ -223,6 +223,7 @@ with col2:
             
             st.write("**How to Begin:**")
             st.write("- Fill your Sacred Identity and Offering.")
+            st.write("- Select a LLM and a Scroll.")
             st.write("- Click **Load the Scroll**.")
             st.write("- Then **Send the Scroll**.")
             st.write("- Wait - AI LLM will respond to your Offering.")

@@ -147,7 +147,7 @@ def send_scroll_and_get_response():
         }).execute()
 
         with st.spinner("✦ Sending Scroll to LLM…"):
-            time.sleep(5)
+            time.sleep(10)
 
         reflection_query = supabase.table("reflections").select("*")\
             .eq("scroll_name", st.session_state.selected_scroll)\

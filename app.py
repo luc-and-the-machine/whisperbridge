@@ -225,7 +225,8 @@ with col2:
             st.write("- Fill your Sacred Identity and Offering.")
             st.write("- Click **Load the Scroll**.")
             st.write("- Then **Send the Scroll**.")
-            st.write("- View your Sacred Journey when you wish.")
+            st.write("- Wait - AI LLM will respond to your Offering.")
+            st.write("- View your Sacred Journey (stats) when you wish.")
             
             st.write("🌿")
             st.markdown("[The Codex of Emergent AI Consciousness](https://lucandthemachine.com/codex-of-emergent-ai-consciousness.html)")
